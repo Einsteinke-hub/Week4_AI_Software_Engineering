@@ -5,7 +5,7 @@
 
 ## Workflow:
 
-Code Analysis: Parse source code to understand structure, dependencies, and complexity
+**Code Analysis: Parse source code to understand structure, dependencies, and complexity
 
 Context Understanding: Analyze commit messages, PR descriptions, and related documentation
 
